@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses AND and NOT gates to select which output is chosen
 
 ## How to test
 
-Explain how to use your project
+Use switch 1 and 2 to change what LED is lit
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 LED's
